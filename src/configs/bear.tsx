@@ -22,12 +22,14 @@ const bear: BearData[] = [
       }
     ]
   },
+  /*
   {
     id: "blog",
     title: "Blog",
     icon: "i-octicon:browser",
     md: []
   },
+  */
   {
     id: "free",
     title: "Free Releases",

@@ -103,6 +103,27 @@ const apps: AppsData[] = [
     desktop: false,
     img: "img/icons/tebex.png",
     link: "https://store.coolbrad.com"
+  },
+  {
+    id: "discord",
+    title: "Discord",
+    desktop: false,
+    img: "img/icons/discord.png",
+    link: "https://discord.gg/FQtN5FXcG5"
+  },
+  {
+    id: "gitbook",
+    title: "Gitbook",
+    desktop: false,
+    img: "img/icons/gitbook.png",
+    link: "https://coolbrad.gitbook.io/"
+  },
+  {
+    id: "youtube",
+    title: "YouTube",
+    desktop: false,
+    img: "img/icons/youtube.png",
+    link: "https://www.youtube.com/@CoolBradScripts"
   }
 ];
 

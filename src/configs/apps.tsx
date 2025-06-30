@@ -19,6 +19,7 @@ const apps: AppsData[] = [
     img: "img/icons/bear.png",
     content: <Bear />
   },
+  /*
   {
     id: "typora",
     title: "Typora",
@@ -29,6 +30,7 @@ const apps: AppsData[] = [
     img: "img/icons/typora.png",
     content: <Typora />
   },
+  */
   {
     id: "safari",
     title: "Safari",
@@ -51,6 +53,7 @@ const apps: AppsData[] = [
     img: "img/icons/vscode.png",
     content: <VSCode />
   },
+  /*
   {
     id: "facetime",
     title: "FaceTime",
@@ -72,12 +75,34 @@ const apps: AppsData[] = [
     img: "img/icons/terminal.png",
     content: <Terminal />
   },
+  */
   {
     id: "github",
     title: "Github",
     desktop: false,
     img: "img/icons/github.png",
-    link: "https://github.com/Renovamen/playground-macos"
+    link: "https://github.com/SwagDaddyBrad"
+  },
+  {
+    id: "fivem",
+    title: "FiveM",
+    desktop: false,
+    img: "img/icons/fivem.png",
+    link: "https://forum.cfx.re/u/coolbradscripts/summary"
+  },
+  {
+    id: "coolbrad",
+    title: "Cool Brad",
+    desktop: false,
+    img: "img/icons/coolbrad.png",
+    link: "https://github.com/CoolBrad-Scripts"
+  },
+  {
+    id: "tebex",
+    title: "Tebex",
+    desktop: false,
+    img: "img/icons/tebex.png",
+    link: "https://store.coolbrad.com"
   }
 ];
 

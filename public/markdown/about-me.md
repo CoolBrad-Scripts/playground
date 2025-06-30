@@ -2,31 +2,24 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I am a 24-year old graduate of Ball State University. I grew up in northern Indiana for most of my life, and have found a love for computers and programming at a very young age. 
 
-I'm trying to find a balance between research and engineering.
+I am a team-oriented person and wish to one day fill a position where I can be looked upon as a leader and viewed as a strength within the company, as well as further advance my communication, managerial, and development skills. 
 
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
-
-I'm also learning web development and building machine learning software and systems.
-
+I wish to fill a position that will challenge my intuition and personal skills to help me become a better leader tomorrow, and each day after.
 
 ## Contact
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
+- Email: [coolbrad@coolbrad.com](mailto:coolbrad@coolbrad.com)
+- Github: [@SwagDaddyBrad](https://github.com/SwagDaddyBrad)
+- Linkedin: [Bradlee Kolvoord](https://www.linkedin.com/in/bradlee-kolvoord)
+- Instagram: [@bradlee.kolv](https://www.instagram.com/bradlee.kolvoord/)
+- Personal Website: [coolbrad.com](https://coolbrad.com)
 
 
-## Résumé
+## Resumé
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
-
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
+- Normal Version: [English](https://coolbrad.com)
+- Interesting Version: [playground.coolbrad.com](playground.coolbrad.com)
